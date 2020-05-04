@@ -1,1 +1,0 @@
-BNSL: A Star Algorithm
