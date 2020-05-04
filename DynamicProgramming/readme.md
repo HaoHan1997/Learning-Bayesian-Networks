@@ -1,4 +1,4 @@
-#Algorithm
+# Algorithm
 Dynamic Programming
-#Program Language
-MATLAB, 
+# Program Language
+* MATLAB
